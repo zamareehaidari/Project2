@@ -1,4 +1,4 @@
-# Project2
+# Project2-Zamaree Haidari.
 MTH785P - Programming for Business Analytics
 ## MTH785P - Programming for Business Analytics
 ### Project Overview
